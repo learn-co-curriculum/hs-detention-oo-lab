@@ -6,3 +6,5 @@
 Use the `learn` tests to guide you in building a `Detention` class.
 
 
+
+<a href='https://learn.co/lessons/hs-detention-oo-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
